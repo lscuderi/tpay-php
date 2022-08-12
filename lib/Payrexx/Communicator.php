@@ -17,7 +17,7 @@ class Communicator
 {
     const VERSIONS = [1.0, 1.1];
     const API_URL_FORMAT = 'https://api.%s/%s/%s/%s/%s';
-    const API_URL_BASE_DOMAIN = 'payrexx.com';
+    const API_URL_BASE_DOMAIN = 't-pay.io';
     const DEFAULT_COMMUNICATION_HANDLER = '\Payrexx\CommunicationAdapter\CurlCommunication';
 
     /**
