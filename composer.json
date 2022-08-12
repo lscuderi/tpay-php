@@ -1,17 +1,17 @@
 {
-    "name": "payrexx/payrexx",
+    "name": "lscuderi/tpay",
     "type": "library",
-    "description": "Payrexx PHPLib",
+    "description": "T-Pay PHPLib",
     "keywords": [
         "payment",
         "gateway"
     ],
     "license": "MIT",
-    "homepage": "https://www.payrexx.com",
+    "homepage": "https://www.t-pay.io",
     "authors": [
         {
-            "name": "Payrexx AG",
-            "homepage": "https://www.payrexx.com"
+            "name": "Telescope GmbH",
+            "homepage": "https://www.tpay.io"
         }
     ],
     "autoload": {
